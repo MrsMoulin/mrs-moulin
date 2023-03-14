@@ -16,7 +16,7 @@ The two hour etiquette class is a one of the kind workshop, offering boys and gi
 
 
 
----
+
 
 ## Cooking Class
 
