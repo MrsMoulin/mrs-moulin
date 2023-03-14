@@ -11,5 +11,4 @@ Cooking Class Goals
  This class is designed for the younger generation to feel comfortable and confident in a kitchen. Exploring cooking techniques, expand palates, introduce knife skills and food saftey.
 
 ![Image of owner](images/mrsmoulin.jpg)
-![Image of owner](images/Introduction.jpeg)
 
