@@ -12,5 +12,5 @@ This class offers boys and girls an opportunity to learn proper table etiquette 
 Cooking Class Goals
  This class is designed for the younger generation to feel comfortable and confident in a kitchen. Exploring cooking techniques, expand palates, introduce knife skills and food saftey.
 
-<img class="large-img" src="images/mrsmoulin.jpg" alt="Image of owner">
+![Image of owner](images/mrsmoulin.jpg)
 
