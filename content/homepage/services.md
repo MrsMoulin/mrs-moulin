@@ -16,6 +16,6 @@ The two hour etiquette class is a one of the kind workshop, offering boys and gi
 
 My hands on cooking classes are personally curated to the individual. Each class teaches proper food handling, knife skills, and proper cooking techniques. Most classes are 3-course meal driven, which includes an appetizer, main dish and dessert in a three hour class. Ages 10+ | Starts at $75+
 
-![cooking](images/cooking.jpg)
+![cooking](images/CookingClass3.jpeg)
 
 ---
